@@ -12,7 +12,7 @@
 				//"${file}",
 				"${workspaceFolder}/src/*.cpp",
 				"-o",
-				"${workspaceFolder}/build/out.app"
+				"${workspaceFolder}/build/a.out"
 			],
 			"options": {
 				"cwd": "${fileDirname}"
